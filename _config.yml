@@ -10,13 +10,13 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Femalecodertocat"
-resume_title:                   "Web Developer"
-resume_contact_email:           "services@github.com"
-resume_contact_telephone:       "1 (877) 448-4820"
-resume_contact_address:         "San Francisco, CA"
-resume_header_contact_info: "San Francisco, CA | 1 (877) 448-4820 | services@github.com"
-resume_header_intro: "<p>Professional Web Developer with an interest in Open Source and Education</p>"
+resume_name:                    "AAAA"
+resume_title:                   "CTO For Hire"
+resume_contact_email:           "aaaa@cto.comm"
+resume_contact_telephone:       "+44 141 123456"
+resume_contact_address:         "Glasgow, Scotland"
+resume_header_contact_info: "Glasgow, Scotland | +44 141 123456 | aaaa@cto.com"
+resume_header_intro: "<p>CTO for hire - Cloud Evangalist!!!</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
