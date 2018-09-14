@@ -1,6 +1,9 @@
 # Site settings
-title: "Another update to Resume Template"
-description: "A resume template for update and GitHub Pages sites."
+#
+# title: "AA Resume Template"
+# description: "A resume template for AA and GitHub Pages sites."
+#
+
 
 # Build settings
 markdown: kramdown
